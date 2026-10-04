@@ -1,6 +1,6 @@
 # Senior Technical Delivery & Agile Execution Artifacts Playbook
 
-**Author:** Sachin Gupta — Senior Tech Project Manager / Certified PMP / Certified Cheif Scrum Master / Certified SAFe4
+**Author:** Sachin Gupta — Senior Tech Project Manager / Certified PMP / Certified Chief Scrum Master / Certified SAFe4
 
 **Domain Focus:** Enterprise Cloud, AI Platforms, Fintech, Travel, Banking, Healthcare US and High-Scale SaaS
 
